@@ -2,7 +2,7 @@
 
  [![ChessOn Working Demo](/ss/1.png)](https://youtu.be/aNYi69mody8)
 ## Inroduction
-ChessOn is an internet chess server. Live online chess can be played against other users at daily, rapid. Chess versus an AI is currently offered. The site tracks all of your games and will help you to visualise your skills in a better way.
+CheckMate is an internet chess server. Live online chess can be played against other users at daily, rapid. Chess versus an AI is currently offered. The site tracks all of your games and will help you to visualise your skills in a better way.
 
 ## Deployment server
 Run `npm run build` for compiling and building front-end bundle.`nodemon server.js` to start the server Then  Navigate to `http://localhost:3000/`.
